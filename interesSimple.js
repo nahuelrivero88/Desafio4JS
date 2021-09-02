@@ -49,5 +49,5 @@ else if (cantidadCuotas == 3) {
     mostrar(calculo);
 }
 else {
-    alert ("Ingrese alguna de las opciones disponibles: 1 o 2 ");
+    alert ("Ingrese alguna de las opciones disponibles: 1, 2 o 3 ");
 }
